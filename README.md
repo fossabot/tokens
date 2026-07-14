@@ -1,4 +1,6 @@
 # @seed-health/tokens
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseed-health%2Ftokens.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseed-health%2Ftokens?ref=badge_shield)
+
 
 Design tokens for Seed Health applications.
 
@@ -114,3 +116,6 @@ If Figma has changes, the run will open (or update) the applicable PR. If nothin
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseed-health%2Ftokens.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseed-health%2Ftokens?ref=badge_large)
